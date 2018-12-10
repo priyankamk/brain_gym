@@ -1,19 +1,19 @@
 # Answers 1
 
-* Does the guard to **paradise lie**
+* Does the guard to **paradise lie?**
 
-## Answers 2
+# Answers 2
 
 __myson__
 ![Son](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxuEwbsIfK_7_4unyZ4LOhOdX_UgYtrbC6cgCr-E-UYt0-nHxe)
 
-### Answers 3
+# Answers 3
 * Tuesday
 * Thursday
    * Today
    * Tomorrow
 
-#### Answers 4
+# Answers 4
 _A Fox_ _A Chicken_ _A sack of corn_
 
 ![Fox chicken a scak of corn](https://puzzlefry.com/wp-content/uploads/2016/03/foc-chicken-and-crop-river-crossing-puzzle-1024x576.png)
@@ -28,14 +28,14 @@ _A Fox_ _A Chicken_ _A sack of corn_
 
 GitHub supports emoji! :leopard: :chicken: :ear_of_rice: 
 
-##### Answers 5
+# Answers 5
 `3000`
 
-###### Answers 6
+# Answers 6
 
 >"__An apple a day keeps the doctor away__"
  
-####### Answers 7
+# Answers 7
 
 ***She killed her sister hoping to see this man at her sisters funeral. If you thought of this answer easily you may be a psychopath***
 
